@@ -1,0 +1,29 @@
+.parent {
+    display: flex;
+    padding-left: 800px;
+}
+.home {
+    background-color: orange;
+    color: white;
+    width: 60px;
+    text-align: center;
+    height: 24px;
+}
+.parent1 {
+    background-color: rgb(0, 140, 255);
+    height: 600px;
+    font-size: 25px;
+    color: white;
+    padding-top: 140px;
+}
+input {
+    outline: none;
+    padding: 8px;
+}
+button {
+    border: none;
+    padding: 8px;
+    width: 140px;
+    background-color: orange;
+    color: white;
+}
